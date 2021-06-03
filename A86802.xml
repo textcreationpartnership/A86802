@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the inhabitants of the county of Suffolke: presented to the Right Honourable the House of Peers, on Tuesday the 16. of February, 1646. With their answer thereunto. Die. Mercurij 29 Febr. 1646. Ordered by the Lords assembled in Parliament, that this petition and answer be forthwith printed and published. Jo. Brown Cler. Parliamentorum.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86802</idno><idno type="EEBO-CITATION">99861880</idno>
+  <idno type="VID">159947</idno>
+  <idno type="EEBO-PROQUEST">2248529326</idno>
+  
+            <idno type="STC">Wing H3524</idno>
+            <idno type="STC">Thomason E377_4</idno>
+            <idno type="STC">ESTC R201356</idno>
+            <idno type="PROQUEST">99861880</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861880e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86802)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159947)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E377[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the inhabitants of the county of Suffolke: presented to the Right Honourable the House of Peers, on Tuesday the 16. of February, 1646. With their answer thereunto. Die. Mercurij 29 Febr. 1646. Ordered by the Lords assembled in Parliament, that this petition and answer be forthwith printed and published. Jo. Brown Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings Head in the old Bayley.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646. [i.e. 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1646.</note>
+                  <note>"In favour of the Presbyterian Government of the Church"--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "feb: 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterianism --  Early works to 1800.</term>
+               <term type="geographic_name">Suffolk (England) --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159947:1"/>
+            <p>The humble PETITION OF THE Inhabitants of the County of Suffolke: Presented to the Right Honourable the House of Peers, on Tuesday the 16. of <hi>February,</hi> 1646.</p>
+            <p>With their Answer thereunto.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Mercurij 29 Febr. 1646.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords Assembled in Parliament, That this Petition and Answer be forthwith printed and published.</p>
+                        <closer>
+                           <signed>Jo. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London</hi> Printed for <hi>John Wright</hi> at the Kings Head in the old Bayley. <add>feb: 17<seg rend="sup">th</seg>
+               </add> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:159947:2"/>
+            <pb n="1" facs="tcp:159947:2"/>
+            <head>TO The Right Honourable the House of Peeres assembled in Parliament.</head>
+            <head>The humble Petition of the Inhabitants of the County of SUFFOLKE:</head>
+            <opener>Sheweth:</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat when we call to minde your Ho<g ref="char:EOLhyphen"/>nours large expressions, and deepe en<g ref="char:EOLhyphen"/>gagements in your many Declarations, and most solemne Covenant for the preservation of the Liberties of the Subject, and the Reformation of the Church and State, and consider how blessed an opportunity to effect your undertakings the Lord hath now afforded you by subduing your enemies, and yet finde our heavie burthens so slowly taken off, and Reformation come more slowly on; We cannot but conceive that some great obstructions (like those from the Bishops, and others in the beginning of this Parlia<g ref="char:EOLhyphen"/>ment) doe nip your godly endeavours in the bud, and
+<pb n="2" facs="tcp:159947:3"/>call once more for a generall discovery of the affections both of the City and Country, in this humble way of Petitioning for the removing thereof; should we now therefore be wholly silent, we should shew our selves too insensible of our present condition, too forgetfull of our solemne Covenant for the furthering Reformation to our power, and too unmindfull of your Honours for<g ref="char:EOLhyphen"/>mer favourable acceptations, and of that strengthening of your hands, which you may in this way justly expect from us, for the taking away those encumbrances, and redressing all those pernicious evills, which dreadfully threaten the speedy ruine of our dearest Religion and Country; the most principall whereof are feelingly ex<g ref="char:EOLhyphen"/>pressed in the Petition, and Representation of the fa<g ref="char:EOLhyphen"/>mous City of <hi>London,</hi> (for whose constant fidelity and zeale, we have great cause to blesse the Lord) and we being no lesse sensible doe humbly crave, That you will be pleased to take into your most serious consideration our following Requests, the granting whereof we hum<g ref="char:EOLhyphen"/>bly conceive, will exceedingly conduce to the welfare of the Church and State, and turne away Gods heavie judge<g ref="char:EOLhyphen"/>ments from us. We humbly pray:
+<list>
+                  <item>1. THat the Nationall Covenant may be solemnly sworne by all men throughout the Kingdome, without respect of persons, under such penalties in case of refusall as to your Wisdomes shall seeme fit, and that no person be continued or imployed in Publique trusts or service, who shall not take the same, or that having taken it shall yet appeare dis-affected thereunto.</item>
+                  <item>2 That whereas you have long since declared for Church Government by Congregationall Elderships,
+<pb n="3" facs="tcp:159947:3"/>Classis, Provinciall Synods, and Nationall Assemblies, You will now be pleased to cause the same to be put in execution amongst us, and in other parts of the King<g ref="char:EOLhyphen"/>dome, and to backe it strongly, that it may be effectuall for publique Reformation.</item>
+                  <item>3 That an Ordinance may be made for the speedy suppressing of Blasphemies, Sects, and Heresies, that so no hope may be left for an accursed toleration of every one to doe what he pleaseth in the matters of God.</item>
+                  <item>4. That for the happier setling of the differences about Religion, a Directory for Church Government, a Con<g ref="char:EOLhyphen"/>fession of Faith, and a Catechisme agreeable to the Word of God, may be made publique by your Authority.</item>
+                  <item>5 That for the firme setling of a well grounded Peace, speciall care may be had for the preservation of his Majesties Person and Authority, in the maintenance of true Religion, Priviledges of the Parliament, and Liberties of the Kingdome.</item>
+                  <item>6 That for so much as divers Ministers want a suffici<g ref="char:EOLhyphen"/>ent livelihood for themselves and families, and very ma<g ref="char:EOLhyphen"/>ny Parishes are farre short of a competent meanes to maintaine a Minister, whereby the people are destitute of Pastours, and subject to be corrupted by seducers; some effectuall course may be taken for the remedy here<g ref="char:EOLhyphen"/>of out of the Estates of Bishops, Deanes, and Chapters, or otherwise as in your Wisdomes shall seeme fit, that godly and Orthodox Ministers may be encouraged, and such as are erronious and scandalous removed; and that others intruding themselves into the worke of the Mini<g ref="char:EOLhyphen"/>stry may be punished and suppressed.</item>
+                  <item>7 That since, by the blessing of the Almighty upon the industry of our valiant Generall and Souldery, the com<g ref="char:EOLhyphen"/>mon
+<pb n="4" facs="tcp:159947:4"/>enemies of our peace are subdued, the Armies may now be disbanded, that so our exhausted estates may be henceforth freed from Taxes, according to the hopes formerly given us of their ending; and our poore bre<g ref="char:EOLhyphen"/>thren in <hi>Ireland</hi> even ready to perish, may be relieved with aid suitable to their necessities.</item>
+                  <item>8 That the Garison in the Isle of <hi>Ely</hi> on the one side of our County, now as we humbly conceive of little use, may be discharged, and the printed designe for putting a Garrison into the Hundred of Lothingland may be dis<g ref="char:EOLhyphen"/>appointed by your Wisedomes, that so we may enjoy our estates and families the freer from oppression, and that if need shall so require, some Trustees of this County may receive order from your Honours for the securing of the whole County as formerly.</item>
+                  <item>9. That the Estates of Papists and Delinquents may be faithfully improved for the re-payment of the Loanes and other debts of the Kingdome, according to severall Orders; And that the just debts of Delinquents may be paid out of their Estates.</item>
+                  <item>10. That so long as there shall be a necessity of conti<g ref="char:EOLhyphen"/>nuing the Excize, it may be better regulated, and be be<g ref="char:EOLhyphen"/>trusted in the hands of persons of knowne ability and fidelity; And that the poore may not be over-burthened by the ill managing of it.</item>
+                  <item>11. That condigne punishment may be inflicted upon all those, that by slanderous reports or otherwise, shall endeavour to make division betweene us and our Bre<g ref="char:EOLhyphen"/>thren of <hi>Scotland,</hi> so happily united by solemne League and Covenant.</item>
+                  <item>12. That the Authors, Licensers, and Printers of Books and Pamphlets, containing points contrary to the
+<pb n="5" facs="tcp:159947:4"/>Doctrine professed in the Reformed Churches; or abu<g ref="char:EOLhyphen"/>sive and lying intelligence, may be severely censured.</item>
+                  <item>13. That your Honours utmost indeavours may be improved to the taking away of divisions in the Church of God, <hi>That the Lord may be one, and his Name one in the three Kingdomes.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And finally we humbly pray, That this Honourable House will be pleased to take in good part these our humble desires, as proceeding onely from the deep sense of the Common Calamity, the conscience of our duty, and the zeale we owe towards God, Your Honours, and the Kingdome.</p>
+            <closer>And your Petitioners shall pray.</closer>
+         </div>
+         <div type="response_to_petition">
+            <head>The Lords Answer to the said Petition.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords acknowledge the constant faithfulnesse, and good affections which the County of <hi>Suffolk</hi> hath upon all occasions expressed to the Parliament and Kingdome; for which they have commanded me to returne you thanks; and to assure you, That they will be carefull to make good their solemne League and Covenant, and to give you all incouragements to go on in your care for the true Worship of God, and for the preservation of the Publike Liberties. They
+<pb n="6" facs="tcp:159947:5"/>are sorry to heare that the Directory, so long since Ordered to be sent into the severall Counties, is not yet come in a publike way into your County; and they will take care that it shall not longer be neg<g ref="char:EOLhyphen"/>lected in the sending it to you.</p>
+            <p>They give you thanks for this your Petition; and the Particulars of it they will speedily take into their serious consideration.</p>
+            <closer>
+               <signed>Joh. Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
